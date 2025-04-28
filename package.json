@@ -1,0 +1,40 @@
+{
+  "name": "react-native-android-gallery-picker",
+  "version": "1.0.1",
+  "description": "A modern Android gallery picker for React Native",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "gallery",
+    "picker",
+    "photo-picker",
+    "image-picker",
+    "video-picker",
+    "media-picker"
+  ],
+  "author": "Shahbaz334",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahbaz334/react-native-android-gallery-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shahbaz334/react-native-android-gallery-picker/issues"
+  },
+  "homepage": "https://github.com/Shahbaz334/react-native-android-gallery-picker#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.0.4"
+  }
+}
