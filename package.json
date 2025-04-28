@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-gallery-picker",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A modern Android gallery picker for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
